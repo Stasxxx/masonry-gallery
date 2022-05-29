@@ -8,7 +8,29 @@
             #FFF5F6 40%,
             #fff 40%,
             #fff 100%);
+    
+}
+@media screen and (min-width : 480px) {
+    .gallery-container {
+            width: 480px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+}
 
+@media screen and (min-width : 768px) {
+    .gallery-container {
+        width: 768px;
+        
+        
+    }
+}
+
+@media screen and (min-width : 1280px) {
+    .gallery-container {
+        width: 1280px;
+
+    }
 }
 
 .masonry-container {
@@ -16,11 +38,11 @@
     
 }
 
-.grid-sizer {
+/* .grid-sizer {
     width: 25%;
     float: left;
     min-height: 1px;
-}
+} */
 
 .item {
    height: 33.34vh;
