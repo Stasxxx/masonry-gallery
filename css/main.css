@@ -1,0 +1,33 @@
+.gallery {
+    max-width: 100%;
+    height: auto;
+    padding: 0 15px 0 15px;
+    background-color: #fff;
+    background-image: linear-gradient(to bottom,
+            #FFF5F6 0%,
+            #FFF5F6 40%,
+            #fff 40%,
+            #fff 100%);
+
+}
+
+.masonry-container {
+    padding: 0;
+    
+}
+
+.grid-sizer {
+    width: 25%;
+    float: left;
+    min-height: 1px;
+}
+
+.item {
+   height: 33.34vh;
+    
+}
+
+.item img {
+    width: 100%;
+    
+}
