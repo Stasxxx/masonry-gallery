@@ -15,10 +15,11 @@
 .gallery-container {
     padding-left: 15px;
     padding-right: 15px;
+    
 }
 @media screen and (min-width : 480px) {
     .gallery-container {
-            width: 465px;
+            width: 480px;
             
             margin-left: auto;
             margin-right: auto;
@@ -43,6 +44,7 @@
 
 .masonry-container {
     padding: 0;
+    
     
 }
 
